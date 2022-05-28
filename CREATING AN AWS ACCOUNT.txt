@@ -1,0 +1,46 @@
+**********CREATING AN AWS ACCOUNT******
+
+STEPS TO CREATE THE ACCOUNT:
+
+* GO TO https://aws.amazon.com/
+* CLick on "Create an AWS account"
+
+	* Sign up for AWS
+
+	1. Root User email address 
+		Insert your root user email address
+	2. AWS account name-
+		Give your AWS account a name like - AWS-INFO
+	3. Click on "Verify your email address"
+		Insert a verification code you have got on your email.
+
+Step 1 - Create Your password
+	
+	1. Create your root user password
+	2. Confirm your root user password
+
+Step 2 - Contact information
+	
+	1. How do you plan to use AWS?
+		Click on "Personal -for your own projects"
+	2. After the enter your remaining details in contact information page like Name, Phone Number, address and etc etc.
+
+Step 3 - Billing Information
+
+	1. For security purpose enter your credit or debit card information
+	2. Do the steps as they you
+
+Step 4 - Confirm your identity
+
+	1. Enter you country code
+	2. Enter your mobile number
+	3. Do the security check as they said.
+
+Step 5 - Select a support plan
+
+	1. Select a "Basic support - Free plan"
+
+* Click on "Complete sign up"
+* It will take few minutes to activate your account. You will receive an email when this is complete.
+
+THANK YOU......
